@@ -6,9 +6,9 @@ import pprint
 # API removed from files
 # API key removed
 
-api_key = "e221e60130b417cf3783e7f7c5c029a2"
+api_key = ""
 
-url_example = "https://api.themoviedb.org/3/movie/550?api_key=e221e60130b417cf3783e7f7c5c029a2"
+url_example = "https://api.themoviedb.org/3/movie/550?api_key="
 base_url = "https://api.themoviedb.org/"
 api_version = 3
 # api path to search movie using movie ID
