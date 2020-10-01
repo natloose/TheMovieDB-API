@@ -1,4 +1,4 @@
 # themoviedb API
 
 
-Connects to TheMovieDB API v3 and requests information. 
+Makes requests to the TheMovieDB API v3
