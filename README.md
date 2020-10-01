@@ -1,1 +1,4 @@
-Connects to TheMovieDB API and requests information. 
+# themoviedb API
+
+
+Connects to TheMovieDB API v3 and requests information. 
